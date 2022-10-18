@@ -81,3 +81,11 @@
 ---
 
 ## Sources
+
+Pour VSCode :
+
+- [Extension VSCode](https://github.com/evilz/vscode-reveal)
+
+Pour le reste :
+
+- [Documetation de RevealJS](https://revealjs.com/)
