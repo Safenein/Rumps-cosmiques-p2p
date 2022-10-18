@@ -68,6 +68,16 @@
 
 ![github](assets/gh.jpg)
 
+--
+
+## Styles de texte
+
+```markdown
+*italic*
+**bold**
+***italic bold***
+```
+
 ---
 
 ## Sources
