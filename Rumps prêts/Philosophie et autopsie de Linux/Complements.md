@@ -112,7 +112,8 @@ utilité.
 
 ## Sources
 
-- [Linux wikipédia](https://en.wikipedia.org/wiki/Linux)
+- [Linux wikipédia](https://en.wikipedia.org/wiki/Linux) - Communautaire
 - [Linux n'est pas Unix ! L'histoire et l'origine des deux OS](https://youtu.be/baxmRgeX7-E) - Cocadmin
 - ["Everything is a file" in UNIX](https://youtu.be/dDwXnB6XeiA) - Stevie Jay
 - [Nom de code Linux [FR] - DOCUMENTAIRE](https://youtu.be/79_IMeks4wY)
+- [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw) -  DorianDotSlash
