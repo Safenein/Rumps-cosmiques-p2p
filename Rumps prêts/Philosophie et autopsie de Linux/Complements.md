@@ -94,7 +94,6 @@ utilité.
 | /proc    | Retrouvez l'ensemble des processus en cours sur votre machine ici|
 | /root    | Il n'y a rien pour vous ici. C'est le home du superutilisateur.  |
 | /etc     | Retrouvez les fichiers de configuration de tout vos programmes.  |
-|          | Si vous cherchez ou est la configuration par défaut, cherchez ici|
 | /var     | Contient des fichiers voué à grandir (logs, crash reports, etc)  |
 | /boot    | Ici réside votre bootloader,vous ne voudriez pas le blesser, non?|
 | /mnt     | Vide. Vous pouvez y monter vos clef USB ou autres si besoin.     |
